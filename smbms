@@ -1,4 +1,6 @@
+/*
 P22 的MySQL数据库表文件，smbms.sql 文件：
+*/
 
 DROP DATABASE IF EXISTS `smbms`;
 
